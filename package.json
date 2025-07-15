@@ -5,9 +5,14 @@
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web",
+    "start:android": "expo start --android",
+    "start:ios": "expo start --ios",
+    "start:web": "expo start --web",
+    "build:web": "expo export -p web",
+    "tauri:icon": "tauri icon ./assets/images/icon.png",
+    "tauri:dev": "tauri dev",
+    "tauri:build": "tauri build",
+    "tauri":"tauri",
     "lint": "expo lint"
   },
   "dependencies": {
@@ -40,10 +45,11 @@
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
+    "@tauri-apps/cli": "^2.6.2",
     "@types/react": "~19.0.10",
-    "typescript": "~5.8.3",
     "eslint": "^9.25.0",
-    "eslint-config-expo": "~9.2.0"
+    "eslint-config-expo": "~9.2.0",
+    "typescript": "~5.8.3"
   },
   "private": true
 }
