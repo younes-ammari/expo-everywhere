@@ -11,7 +11,7 @@
     "build:web": "expo export -p web",
     "tauri:icon": "tauri icon ./assets/images/icon.png",
     "tauri:dev": "tauri dev",
-    "tauri:build": "tauri build",
+    "tauri:build": "npm run tauri:icon & tauri build",
     "tauri":"tauri",
     "lint": "expo lint"
   },
