@@ -4,15 +4,14 @@
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
-    "reset-project": "node ./scripts/reset-project.js",
     "start:android": "expo start --android",
     "start:ios": "expo start --ios",
-    "start:web": "expo start --web",
+    "start:web": "expo start --web --offline",
+    "start:desktop": "tauri dev",
     "build:web": "expo export -p web",
+    "build:desktop": "npm run tauri:icon & tauri build",
     "tauri:icon": "tauri icon ./assets/images/icon.png",
-    "tauri:dev": "tauri dev",
-    "tauri:build": "npm run tauri:icon & tauri build",
-    "tauri":"tauri",
+    "reset-project": "node ./scripts/reset-project.js",
     "lint": "expo lint"
   },
   "dependencies": {
