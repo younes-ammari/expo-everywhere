@@ -86,7 +86,7 @@ npm run tauri:icon
 
 ### Tauri Resources
 - [Tauri documentation](https://tauri.app/): Learn about building desktop applications
-- [Tauri API](https://tauri.app/v1/api/js/): Explore native desktop capabilities
+- [Tauri API](https://tauri.app/reference/javascript/api/): Explore native desktop capabilities
 
 ## Join the community
 
