@@ -13,9 +13,9 @@ This is an [Expo](https://expo.dev) project enhanced with [Tauri](https://tauri.
 
 ## 🚀 Supported Platforms
 
+- 📱 **Mobile** - Android & iOS
 - 🌐 **Web** - Modern browsers
-- 📱 **Mobile** - Android & iOS (via Expo)
-- 🖥️ **Desktop** - Windows, macOS, Linux (via Tauri)
+- 🖥️ **Desktop** - Windows, macOS, Linux 
 
 ## Get started
 
@@ -80,10 +80,6 @@ Desktop app settings are configured in `src-tauri/tauri.conf.json`. You can cust
 - App icons and branding
 - System permissions
 
-To update app icons for desktop:
-```bash
-npm run tauri:icon
-```
 
 ## Learn more
 
