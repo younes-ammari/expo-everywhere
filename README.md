@@ -1,6 +1,7 @@
 # Expo Everywhere 🌍
 
 **Run your Expo app everywhere** - Web, Android, iOS, Windows, macOS, and Linux!
+![Cover Image](assets/images/cover.jpeg)
 
 This is an [Expo](https://expo.dev) project enhanced with [Tauri](https://tauri.app) to create truly universal applications that run on every major platform. Built with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app) and extended for desktop support.
 
