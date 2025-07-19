@@ -102,3 +102,17 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Tauri on GitHub](https://github.com/tauri-apps/tauri): Explore the desktop framework
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### What does this mean?
+
+The MIT License is a permissive license that allows you to:
+- ✅ Use this project for commercial purposes
+- ✅ Modify and distribute the code
+- ✅ Use it in private projects
+- ✅ Include it in other projects
+
+The only requirement is that you include the original license and copyright notice in any copy of the software.
