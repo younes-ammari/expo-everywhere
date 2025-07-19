@@ -1,6 +1,6 @@
 [![runs with Expo Go](https://img.shields.io/badge/Runs%20with%20Expo%20Go-4630EB.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000)](https://expo.dev/client)
 [![GitHub stars](https://img.shields.io/github/stars/younes-ammari/expo-everywhere?style=flat-square&logo=github)](https://github.com/younes-ammari/expo-everywhere/stargazers)
-[![GitHub license](https://img.shields.io/github/license/younes-ammari/expo-everywhere?style=flat-square)](https://github.com/younes-ammari/expo-everywhere/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/younes-ammari/expo-everywhere?style=flat-square)](https://github.com/younes-ammari/expo-everywhere)
 [![Template Uses](https://img.shields.io/badge/Template%20Uses-Click%20to%20Use-success?style=flat-square&logo=github)](https://github.com/younes-ammari/expo-everywhere/generate)
 
 
